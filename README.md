@@ -2,7 +2,7 @@
 Computer vision algorithms for searching and analyzing technical and scientific images such as figures, diagrams and drawings.
 
 ## patent-label
-Read figure labels from patent drawings. See included patent-label/README.
+Read figure labels from patent drawings. See patent-label/README.
 
 ## Acknowledgements
 
